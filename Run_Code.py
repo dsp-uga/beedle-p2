@@ -1,3 +1,6 @@
+# this code was copied from https://github.com/Naresh1318/GenderClassifier 
+# for brainstorming, but does not really appear too useful for our purposes
+
 from sklearn import tree
 from sklearn.svm import SVC
 from sklearn.linear_model import Perceptron
