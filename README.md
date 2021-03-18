@@ -10,4 +10,4 @@ Our pipeline uses a Google Dataproc server to consume a giant dataset of face im
 * we had to enable component gateway to access the jupyter notebook on the GCP cluster
 
 # To run code:
-open src/
+In Jupyter Notebooks open src/lor.pynb and run all cells
